@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Battle_C_cmd/1.0.0": {
+        "dependencies": {
+          "Lib": "1.0.0"
+        },
+        "runtime": {
+          "Battle_C_cmd.dll": {}
+        }
+      },
+      "Lib/1.0.0": {
+        "runtime": {
+          "Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Battle_C_cmd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
